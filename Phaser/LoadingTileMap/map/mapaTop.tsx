@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+import React from 'react';
+
+const tileset = `
 <tileset version="1.10" tiledversion="1.10.2" name="mapaTop" tilewidth="32" tileheight="32" tilecount="3248" columns="58">
  <image source="../assets/free_overview.png" width="1886" height="1792"/>
 </tileset>
+`;

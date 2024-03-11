@@ -104,19 +104,19 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"mapaTop3.tsx"
+         "source":"../assets/Room_Builder_Office_32x32.png"
         }, 
         {
          "firstgid":225,
-         "source":"mapaTop.tsx"
+         "source":"../assets/free_overview.png"
         }, 
         {
          "firstgid":3473,
-         "source":"mapaTop2.tsx"
+         "source":"../assets/Modern_Office_32x32.png"
         }, 
         {
          "firstgid":4321,
-         "source":"officeTop.tsx"
+         "source":"../assets/recepcao (1).png"
         }],
  "tilewidth":32,
  "type":"map",
